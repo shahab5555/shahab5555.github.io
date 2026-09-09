@@ -2,7 +2,7 @@
 # Hi, I'm Shahab Uddin 👋
 ### Junior AI / ML Engineer & Computer Science Graduate
 
-Welcome to my portfolio! I specialize in building Artificial Intelligence and Machine Learning solutions, focusing on Computer Vision, Natural Language Processing (NLP), OCR, and Deep Learning.
+Welcome to my portfolio! I specialize in building Artificial Intelligence and Machine Learning solutions, focusing on Generative AI, AI ChatBoard, LLM, RAG, Computer Vision, Natural Language Processing (NLP), OCR, and Deep Learning.
 
 ---
 
